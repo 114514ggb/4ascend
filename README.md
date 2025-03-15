@@ -1,4 +1,4 @@
-***注意***
+# ***注意***
 
 新人学习练手项目，单页写完,以后可能会重写.
 
@@ -30,7 +30,7 @@
 
 ---
 
-**Beginner Practice Project**  
+# **Beginner Practice Project**  
 A single-page application written for learning purposes. May be rewritten in the future.
 
 ---
